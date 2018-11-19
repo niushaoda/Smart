@@ -1,0 +1,10 @@
+<!--pages/trainList/trainList.wxml-->
+<view class="body">
+    <text class="read_title">阅读练习</text>
+    <block wx:for="{{trainData}}">
+        <view class="every" data-listid="{{index}}" bindtap="jumpDetail">
+            <image class="bacimg" src="https://www.niushaoda.club/thinkphp-3.2/images/type/read.png" />
+            <text class="title">{{item.title}}</text>
+        </view>
+    </block>
+</view>

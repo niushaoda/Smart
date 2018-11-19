@@ -1,0 +1,14 @@
+/* pages/music/music.wxss */
+.body_title{
+    width: 100%;
+    text-align: center;
+    color: #395DB5;
+}
+.body_mp{
+    width: 600rpx;
+    margin:0 auto;
+}
+.geri{
+  margin-left: 15rpx;
+  margin-right: 15rpx;
+}

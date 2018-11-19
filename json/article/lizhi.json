@@ -1,0 +1,40 @@
+{
+    "title" : "You Have Only One Life",
+    "auth" : "jiahui",
+    "content" : [
+        {
+            "index" : 1,
+            "detail" : "There are moments in life when you miss someone so much that you just want to pick them from your dreams and hug them for real! Dream what you want to dream;go where you want to go;be what you want to be,because you have only one life and one chance to do all the things you want to do."
+        },{
+            "index" : 2,
+            "detail" : "May you have enough happiness to make you sweet,enough trials to make you strong,enough sorrow to keep you human,enough hope to make you happy? Always put yourself in others’shoes.If you feel that it hurts you,it probably hurts the other person, too."
+        },{
+            "index" : 3,
+            "detail" : "The happiest of people don’t necessarily have the best of everything;they just make the most of everything that comes along their way.Happiness lies for those who cry,those who hurt, those who have searched,and those who have tried,for only they can appreciate theimportance of peoplewho have touched their lives.Love begins with a smile,grows with a kiss and ends with a tear.The brightest future will always be based on a forgotten past, you can’t go on well in lifeuntil you let go of your past failures and heartaches."
+        },{
+            "index" : 4,
+            "detail" : "When you were born,you were crying and everyone around you was smiling.Live your life so that when you die,you're the one who is smiling and everyone around you is crying."
+        },{
+            "index" : 5,
+            "detail" : "Please send this message to those people who mean something to you,to those who have touched your life in one way or another,to those who make you smile when you really need it,to those that make you see the brighter side of things when you are really down,to those who you want to let them know that you appreciate their friendship.And if you don’t, don’t worry,nothing bad will happen to you,you will just miss out on the opportunity to brighten someone’s day with this message."
+        }
+    ],
+    "explain" : [
+        {
+            "index" : 1,
+            "detail" : "生活中有那么多的时刻，当你如此想念某人，你只想从梦中把他们从梦中抱出来。做你想做的梦，去你想去的地方，做你想做的人，因为你只有一次生命和一次机会去做所有你想做的事情。"
+        },{
+            "index" : 2,
+            "detail" : "愿你有足够的幸福让你甜蜜，足够的考验让你坚强，足够的悲伤让你保持人性，足够的希望让你快乐。总是把自己放在别人的鞋子里。如果你觉得它伤害了你，它也可能伤害他人。"
+        },{
+            "index" : 3,
+            "detail" : "最幸福的人不一定拥有最好的东西，他们只是充分利用了他们生活中的每一件事。幸福在于那些哭泣的人，那些受伤的人，那些寻觅的人，以及那些曾经努力过的人，因为只有他们才懂得那些有责任心的人的重要性。爱是从微笑开始的，随着亲吻而增长，以眼泪结束。最光明的未来总是建立在被遗忘的过去之上，在你放弃过去的失败和心痛之前，你不能继续生活下去。"
+        },{
+            "index" : 4,
+            "detail" : "当你出生的时候，你哭了，你周围的每个人都笑了。活出你的生命，这样当你死的时候，你是一个微笑的人，而你周围的每个人都在哭泣。"
+        },{
+            "index" : 5,
+            "detail" : "请把这些信息传达给那些对你意味着什么的人，那些以某种方式触动你生命的人，那些真正需要你的人，让你看到那些在你真正沮丧时看到光明的一面的人，那些你想让他们知道的人。感谢你的友谊，如果你不在乎，不要担心，不会有什么坏事发生在你身上，你会错过机会用这个信息来照亮某人的一天。"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+<!--pages/music/music.wxml-->
+<view class="body">
+  <view class="body_title">
+    {{musicname}}
+  </view>
+  <view class="body_mp">
+    <audio src="{{musicData.url}}" controls loop name='{{musicname}}' author='***'></audio>
+  </view>
+  <view class='geri'>
+    <text wx:if="{{geci}}">
+            {{geci}}
+        </text>
+    <text wx:else>
+            暂无歌词
+        </text>
+  </view>
+</view>
